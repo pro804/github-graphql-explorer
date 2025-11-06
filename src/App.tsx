@@ -3,7 +3,7 @@ import SearchForm from "./components/form/SearchForm";
 import UserProfile from "./components/user/userProfile";
 
 const App = () => {
-  const [userName, setUserName] = useState("quincylarson");
+  const [userName, setUserName] = useState("pro804");
 
   return (
     <main className="mx-auto max-w-6xl px-8 py-20">
