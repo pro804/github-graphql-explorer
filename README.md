@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./src/assets/demo/Mobile.png" height="450" alt="Mobile view showing responsive design and profile layout" />
+      <img src="./src/assets/demo/mobile.gif" height="450" alt="Mobile view showing responsive design and profile layout" />
     </td>
   </tr>
 
